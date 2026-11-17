@@ -1,4 +1,16 @@
 node_modules/
 dist/
 *.tsbuildinfo
+
+# Variáveis de ambiente e segredos locais
+.env
+.env.*
+!.env.example
+
+# Sistema operacional e editores
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
