@@ -1,9 +1,9 @@
 ---
 name: Sugerir uma melhoria
 about: Proponha uma ideia para o CadernoFrete
-title: "[Melhoria] "
-labels: ""
-assignees: ""
+title: '[Melhoria] '
+labels: ''
+assignees: ''
 ---
 
 ## Problema ou necessidade

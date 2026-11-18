@@ -1,9 +1,9 @@
 ---
 name: Relatar um problema
 about: Ajude a identificar algo que não está funcionando como esperado
-title: "[Bug] "
-labels: ""
-assignees: ""
+title: '[Bug] '
+labels: ''
+assignees: ''
 ---
 
 ## Descrição
